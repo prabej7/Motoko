@@ -1,0 +1,6 @@
+[dependencies]
+base = "0.7.4"
+certified-cache = "0.3.0"
+server = "1.0.0"
+web-io = "0.0.1"
+web-api = "0.0.1"
